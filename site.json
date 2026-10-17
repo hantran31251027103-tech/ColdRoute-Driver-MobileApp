@@ -1,0 +1,12 @@
+{
+  "title": "ColdRoute Driver",
+  "language": "en",
+  "description": "Monitor and manage pharmaceutical shipments for cold-chain truck drivers, ensuring temperature compliance and prompt action on alerts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}

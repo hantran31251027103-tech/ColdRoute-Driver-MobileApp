@@ -1,0 +1,15 @@
+# ColdChain IQ Backend — Python Dependencies
+# Target Runtime: Python 3.12 (Linux x86_64 recommended for XGBoost model bundle)
+
+# Model 1 & Early-Warning Bundle exact compatibility versions
+numpy==2.4.4
+pandas==3.0.2
+scikit-learn==1.8.0
+xgboost==3.4.1
+statsmodels==0.15.0
+
+# API & Web Framework
+fastapi>=0.110.0,<1.0.0
+uvicorn[standard]>=0.28.0,<1.0.0
+pydantic>=2.0.0,<3.0.0
+python-multipart>=0.0.9
